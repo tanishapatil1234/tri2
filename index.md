@@ -4,7 +4,10 @@ title: Student Blog
 ---
 
 # Tanisha Patil 
-> Trimester 2 CS Blog
+Trimester 2 CS Blog
+
+
+
 | | | |
 |:-------------------------:|:-------------------------:|:-------------------------:|
 |<img width="1604" alt="image" src="https://github.com/tanishapatil1234/tri2/assets/111611921/46f87952-8f15-41de-b4d3-3986598cc6e0">   |  <img width="1604" alt="image" src="https://github.com/tanishapatil1234/tri2/assets/111611921/2c632fa5-168f-43bc-bd01-71ae16332430"> |<img width="1604" alt="image" src="https://github.com/tanishapatil1234/tri2/assets/111611921/f716198e-ec80-4a3d-8c34-4ab373442ae8">|

@@ -4,15 +4,46 @@ comments: true
 layout: post
 title: Individual Review
 description: Reflection and progress
-type: plans
-courses: { compsci: {week: 2} }
+type: tangibles
+courses: { compsci: {week: 3} }
 ---
 
 Tanisha Patil, Per 3, Overall Individual Review 2023-2024
 
+<img width="783" alt="image" src="https://github.com/tanishapatil1234/tri2/assets/111611921/4a5a8d6f-9ee0-4a37-9d70-442542b1635e">
+
+
+# Main works 
+**Pocket Therapist**
+- [AI Work](https://tanishapatil1234.github.io/tri2//2023/01/18/ww3personal.html)
+- [Backend Construction](https://tanishapatil1234.github.io/tri2//2023/01/18/ww3backend.html)
+- [Key Commits ~ Frontend](https://github.com/vivianknee/PocketTherapist/commits?author=tanishapatil1234)
+> Constructed camera and camera container. Frontend also holds code for the javascript OpenCV work
+- [Key Commits ~ Backend](https://github.com/vivianknee/PT_Backend/commits?author=tanishapatil1234)
+> Constructed the entire quotes database on Spring
+
+
+
+**WW3 Mini Project**
+- [All Accomplishments](https://tanishapatil1234.github.io/tri2//2023/01/18/worldwarplan.html)
+- [Key Commits ~ Frontend](https://github.com/rachit-j/ww3/commits?author=tanishapatil1234)
+> Constructed testing file where I worked to integrate backend requests of cards into sorting algos. 
+- [Key Commits ~ Backend](https://github.com/rachit-j/ww3-backend/commits?author=tanishapatil1234) . 
+> Constructed the entire cards database on Spring
+
+
+
+
+
+
+
 # Overall 
 ## Commits 
 <img width="705" alt="image" src="https://github.com/tanishapatil1234/tri2/assets/111611921/c3696982-2a74-4e53-a1d5-6dfe3d44be3a">
+
+
+
+
 
 ## Reflection (Bulleted because who wants to read a paragraph) 
 - I need to commit more sporadically

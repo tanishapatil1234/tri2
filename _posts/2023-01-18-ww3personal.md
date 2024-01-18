@@ -4,8 +4,8 @@ comments: true
 layout: post
 title: ww3 Plan ~ Personal Accomplishments
 description: Plans/ideation 
-type: plans
-courses: { compsci: {week: 2} }
+type: tangibles
+courses: { compsci: {week: 1} }
 ---
 
 ## Sub ticket Tanisha CNN implementation 

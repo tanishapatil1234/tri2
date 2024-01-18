@@ -2,7 +2,7 @@
 toc: true
 comments: true
 layout: post
-title: ww3 Plan ~ Personal Accomplishments
+title: PocketTherapist Plan ~ Personal Accomplishments
 description: Plans/ideation 
 type: tangibles
 courses: { compsci: {week: 1} }

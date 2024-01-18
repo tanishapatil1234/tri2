@@ -38,7 +38,6 @@ Tanisha Patil, Per 3, Overall Individual Progress 2023-2024
 - I do not have it committed yet because of liscencing issues I am trying to navigate, but here is some code 
 
 <code>
-
 class ImageDataset(Dataset):
     def __init__(self, h5_file, group, transform=None, target_transform=None):
         self.h5_file = h5_file
@@ -75,7 +74,6 @@ class ImageDataset(Dataset):
             label = self.target_transform(label)
 
         return image, label
-
 </code>
 
 

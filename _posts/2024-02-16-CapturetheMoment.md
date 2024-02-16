@@ -35,3 +35,25 @@ Here is some more of my favorite pieces.
 <img width="514" alt="image" src="https://github.com/lightkurve/lightkurve/assets/111611921/5ba2c753-e06e-4636-96d6-007a14e55ddd">
 <img width="514" alt="image" src="https://github.com/lightkurve/lightkurve/assets/111611921/ad4c8235-65d5-4b06-b3e6-445e0f1d0880">
 
+
+### Glows:
+
+- Engagement with Audience: The event facilitated a great opportunity for you to engage with parents, students, and peers, showcasing your project and exchanging insights. This interaction likely helped in refining your understanding of your own project as well as gaining inspiration from others' work.
+
+- Positive Feedback: Receiving constructive feedback is crucial for growth, and it seems like your project garnered a lot of positive feedback, indicating its potential and appeal. This positive reception can boost morale and motivation.
+
+- Learning from Others: The event allowed you to explore and learn from others' projects, such as Tay Kim's ASL recognizer and the ceramics project, broadening your understanding of different fields and approaches. This cross-pollination of ideas is invaluable for personal and professional growth.
+
+- Adaptability: Recognizing areas for improvement, such as the UI and control scheme, and being proactive about addressing them demonstrates adaptability and a commitment to refining your project based on user feedback.
+
+### Grows:
+
+- User Interface (UI) Enhancement: While you've identified the need to improve the UI based on feedback, it would be beneficial to outline specific changes and a timeline for implementation. This will ensure that the improvements are systematically addressed and integrated into the project.
+
+- Incorporating Feedback: It's important not only to acknowledge feedback but also to actively incorporate it into your project's development. Consider creating a structured feedback loop where you gather, analyze, prioritize, and implement feedback regularly to continually enhance your project.
+
+- Exploring Diverse Perspectives: While you've highlighted specific projects you found interesting, consider delving deeper into the technical aspects and methodologies of these projects. Engaging in detailed discussions with creators can offer deeper insights and potentially spark new ideas for your own work.
+
+- Documentation and Reflection: To capture the full learning experience from the event, consider documenting key takeaways and reflections. This could include insights gained from interactions, lessons learned from feedback, and ideas sparked by other projects. Reflecting on these experiences can help solidify learning and inform future project iterations.
+
+

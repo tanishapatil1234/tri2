@@ -1,7 +1,14 @@
 # CSP course meta data
 Unit1:
-  title: Initiral Projects
+  title: Initial Projects
   description:  Pocket Therapist Trimester Final Project and WW3 Mini project
   start: 0
   end: 5
+
+Unit2:
+  title: Java Frqs
+  description:  Main project and JAVA FRQS
+  start: 0
+  end: 5
+
 
